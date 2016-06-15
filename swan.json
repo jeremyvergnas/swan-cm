@@ -8,11 +8,11 @@
     },
     "server": {
       "directory": "swan-cm-server",
-      "upstream": "git@github.com:Connectedmolecules/api.git"
+      "upstream": "git@github.com:jeremyvergnas/api.git"
     },
     "client": {
       "directory": "swan-cm-client",
-      "upstream": "git@github.com:Connectedmolecules/dashboard.git"
+      "upstream": "git@github.com:jeremyvergnas/dashboard.git"
     }
   }
 }
