@@ -7,11 +7,11 @@
       "upstream": "git@github.com:jeremyvergnas/swan-cm.git"
     },
     "server": {
-      "directory": "swan-cm-server",
+      "directory": "api",
       "upstream": "git@github.com:jeremyvergnas/api.git"
     },
     "client": {
-      "directory": "swan-cm-client",
+      "directory": "dashboard",
       "upstream": "git@github.com:jeremyvergnas/dashboard.git"
     }
   }
